@@ -8,7 +8,7 @@ Welcome to my Data Science portfolio. This repository contains a collection of p
 
 Ordered from most recent to oldest:
 
-- **Credit Risk Analysis** (English 🇬🇧)
+- **Credit Risk Analysis** (English 🇺🇸)
 
   Applied statistical and machine learning techniques to assess credit risk based on financial data.  
   [View Project](./Credit%20Risk%20Analysis)
