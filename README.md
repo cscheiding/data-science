@@ -14,11 +14,11 @@ Ordered from most recent to oldest:
   [View Project](./3%20Fraudulent%20Job%20Ads%20Detection/Dimensionality_reduction.ipynb)
 
 - **Credit Risk Analysis** (English 🇺🇸)  
-  Applied statistical and machine learning techniques to assess credit risk based on financial data. 
+  Applied statistical and machine learning techniques to assess credit risk based on financial data.  
   [View Project](./2%20Credit%20Risk%20Analysis/Credit_Risk_Analysis.ipynb)
 
 - **Stellar Age Prediction (Predicción de edades estelares)** (Spanish 🇪🇸)  
-  Developed predictive models to estimate stellar ages using astrophysical datasets. Combines astronomy knowledge with machine learning methods, as part of the *Experimental Astrophysics (UC)* course. 
+  Developed predictive models to estimate stellar ages using astrophysical datasets. Combines astronomy knowledge with machine learning methods, as part of the *Experimental Astrophysics (UC)* course.  
   [View Project](./1%20Stellar%20Age%20Prediction/Stellar_Age_Prediction.ipynb)
 
 - **Additional Projects**  
