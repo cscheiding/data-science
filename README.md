@@ -8,32 +8,39 @@ Welcome to my Data Science portfolio. This repository contains a collection of p
 
 Ordered from most recent to oldest:
 
+- **# Dimensionality Reduction with Neural Networks for Predictive Analysis of Fraudulent Job Ads** (English 🇺🇸)  
+  Applied dimensionality reduction using neural networks (autoencoders) to improve predictive analysis of fraudulent job postings.  
+  Includes preprocessing (feature selection, encoding, scaling), class balancing with SMOTE-NC, logistic regression baseline, and comparison of performance after constructing a latent representation.  
+  [View Project](./3%20Fraudulent%20Job%20Ads%20Detection/Dimensionality_reduction.ipynb)
+
 - **Credit Risk Analysis** (English 🇺🇸)  
-  Applied statistical and machine learning techniques to assess credit risk based on financial data.  
-  [View Project](./Credit%20Risk%20Analysis)
+  Applied statistical and machine learning techniques to assess credit risk based on financial data. 
+  [View Project](./2%20Credit%20Risk%20Analysis/Credit_Risk_Analysis.ipynb)
 
 - **Stellar Age Prediction (Predicción de edades estelares)** (Spanish 🇪🇸)  
-  Developed predictive models to estimate stellar ages using astrophysical datasets. Combines astronomy knowledge with machine learning methods, as part of the *Experimental Astrophysics (UC)* course.
-  [View Project](./Stellar%20Age%20Prediction)
+  Developed predictive models to estimate stellar ages using astrophysical datasets. Combines astronomy knowledge with machine learning methods, as part of the *Experimental Astrophysics (UC)* course. 
+  [View Project](./1%20Stellar%20Age%20Prediction/Stellar_Age_Prediction.ipynb)
 
 - **Additional Projects**  
-  More projects will be added over time, covering topics such as data visualization, predictive modeling, and automation.
+  More projects will be added over time, covering topics such as data visualization, predictive modeling and automation.
 
 ---
 
 ## ⚙️ Technologies Used
 
 - **Languages**: Python  
-- **Libraries**: pandas, NumPy, scikit-learn, matplotlib, seaborn, astropy and scipy  
-- **Tools**: Jupyter Notebook and kagglehub  
+- **Libraries**: pandas, NumPy, scikit-learn, matplotlib, seaborn, astropy, scipy, imbalanced-learn, keras and tensorflow  
+- **Tools**: Jupyter Notebook, kagglehub
 
 ---
 
 ## 🔑 Concepts Applied
-- Data cleaning and preprocessing (encoding, scaling and sigma clipping)  
+- Data cleaning and pre-processing (encoding, scaling, sigma clipping and feature selection)  
+- Handling imbalanced datasets (SMOTENC oversampling)  
 - Supervised learning (classification and regression)  
-- Hyperparameter tuning (GridSearchCV)  
-- Model evaluation (accuracy, precision, recall, F1-score and RMSE)  
+- Hyper parameter tuning (GridSearchCV and RandomizedSearchCV)  
+- Model evaluation (accuracy, precision, recall, F1-score, RMSE and confusion matrix)  
+- Dimensionality reduction (autoencoders and latent representation analysis)  
 - Feature importance analysis  
 - Visualization of results and decision trees  
 - Handling astrophysical data (FITS files and physical units)
