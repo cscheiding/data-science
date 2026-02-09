@@ -10,7 +10,7 @@ Ordered from most recent to oldest:
 
 - **# Dimensionality Reduction with Neural Networks for Predictive Analysis of Fraudulent Job Ads** (English 🇺🇸)  
   Applied dimensionality reduction using neural networks (autoencoders) to improve predictive analysis of fraudulent job postings.  
-  Includes preprocessing (feature selection, encoding, scaling), class balancing with SMOTE-NC, logistic regression baseline, and comparison of performance after constructing a latent representation.  
+  Includes pre-processing (feature selection, encoding, scaling), class balancing with SMOTE-NC, logistic regression baseline, and comparison of performance after constructing a latent representation.  
   [View Project](./3%20Fraudulent%20Job%20Ads%20Detection/Dimensionality_reduction.ipynb)
 
 - **Credit Risk Analysis** (English 🇺🇸)  
