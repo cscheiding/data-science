@@ -30,7 +30,7 @@ Ordered from most recent to oldest:
 
 - **Languages**: Python  
 - **Libraries**: pandas, NumPy, scikit-learn, matplotlib, seaborn, astropy, scipy, imbalanced-learn, keras and tensorflow  
-- **Tools**: Jupyter Notebook, kagglehub
+- **Tools**: Jupyter Notebook and kagglehub
 
 ---
 
