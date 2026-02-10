@@ -5,7 +5,6 @@ Welcome to my Data Science portfolio. This repository contains a collection of p
 ---
 
 ## 📂 Projects
-
 Ordered from most recent to oldest:
 
 - **Dimensionality Reduction with Neural Networks for Predictive Analysis of Fraudulent Job Ads** (English 🇺🇸)  
@@ -27,7 +26,6 @@ Ordered from most recent to oldest:
 ---
 
 ## ⚙️ Technologies Used
-
 - **Languages**: Python  
 - **Libraries**: pandas, NumPy, scikit-learn, matplotlib, seaborn, astropy, scipy, imbalanced-learn, keras and tensorflow  
 - **Tools**: Jupyter Notebook and kagglehub
