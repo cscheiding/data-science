@@ -1,5 +1,7 @@
 # Credit Risk Analysis
 
+> ℹ️ This project was developed when I was just starting to learn about machine learning. It may contain errors or limitations, but I keep it in my GitHub as part of my learning journey and to show my progress over time.
+
 This project applies statistical and machine learning techniques to predict possible credit defaulters using data from a financial institution. The objective is to identify upfront which customers are likely to default, helping institutions take preventive measures.
 
 ---
@@ -12,8 +14,8 @@ This project applies statistical and machine learning techniques to predict poss
   - Data downloaded via KaggleHub (`loan.csv`)  
 
 - **Target**: `loan_status`  
-  - *Bad credit* (0): Default, Charged Off, or Does not meet the credit policy (Charged Off)  
-  - *Good credit* (1): Fully Paid, Current, Issued, In Grace Period, Late, etc.  
+  - *Bad credit* (0): Default, Charged Off or Does not meet the credit policy (Charged Off)  
+  - *Good credit* (1): Fully Paid, Current, Issued, In Grace Period, Late and others  
 - **Class balance**: Only ~5.62% of instances correspond to bad credit, making the dataset imbalanced.
 
 ---
@@ -22,13 +24,13 @@ This project applies statistical and machine learning techniques to predict poss
 1. **Pre-processing**  
    - Stratified sampling (10% of each loan_status category to reduce computing time)  
    - Conversion of `term` column to integer (36 or 60 months)  
-   - Removal of irrelevant columns (`id`, `member_id`, `url`, `desc`)  
+   - Removal of irrelevant columns (`id`, `member_id`, `url` and `desc`)  
    - Label encoding of categorical features  
    - Min-max scaling of numeric features  
    - Replacement of NaN values with column medians  
 
 2. **Modeling**  
-   - Comparison of three classifiers: Logistic Regression, Linear Support Vector Machines (SVM), and Random Forest  
+   - Comparison of three classifiers: Logistic Regression, Linear Support Vector Machines and Random Forest  
    - Grid Search over hyper parameters with cross-validation  
    - Evaluation with accuracy, precision, recall and F1 score  
 

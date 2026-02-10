@@ -1,5 +1,7 @@
 # Stellar Age Prediction
 
+> ℹ️ This project was developed when I was just starting to learn about machine learning. It may contain errors or limitations, but I keep it in my GitHub as part of my learning journey and to show my progress over time.
+
 This project applies **machine learning techniques** to predict stellar ages from chemical abundances, using data from the **GALAH DR4 survey**. The objective is to identify correlations between stellar parameters and abundances, and to determine which features are most relevant for predicting stellar ages and galactic component membership.
 
 ---
