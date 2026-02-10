@@ -105,7 +105,7 @@ def show_model_metrics(
     # Precision, recall and F1:
     prf_metrics = (lambda y_true, y_pred:
                    precision_recall_fscore_support(y_true, y_pred))
-    (precision, _), (recall, _), (f1, _), _ = prf_metrics(y_true, y_pred)
+    (_, precision), (_, recall), (_, f1), _ = prf_metrics(y_true, y_pred)
 
     print(f'Model metrics\n' + '-' * whitespace * 3)
     print('Accuracy:' + ' ' * (whitespace - len('Accuracy'))  + f'{accuracy}')
