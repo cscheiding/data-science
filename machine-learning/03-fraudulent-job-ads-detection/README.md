@@ -70,5 +70,5 @@ Clone the repository and open the notebook:
 
 ```bash
 git clone https://github.com/cscheiding/data-science.git
-cd "machine-learning/03-fraudulent-job-ads-detection"
+cd machine-learning/03-fraudulent-job-ads-detection
 jupyter notebook Fraudulent_Job_Ads_Detection.ipynb

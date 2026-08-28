@@ -85,9 +85,8 @@ The project strictly separates presentation, state and business logic into modul
 Clone the repository and install dependencies:
 
 ```bash
-git clone [https://github.com/cscheiding/email-ai-agent-local.git](https://github.com/cscheiding/email-ai-agent-local.git)
-cd email-ai-agent-local
-pip install -r requirements.txt
+git clone https://github.com/cscheiding/data-science.git
+cd ai-applications/01-email-ai-agent-local
 ```
 
 ### 3. Configuration

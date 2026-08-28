@@ -59,6 +59,6 @@ Ordered from most recent to oldest:
 Clone the repository and explore each project folder:
 
 ```bash
-git clone [https://github.com/cscheiding/data-science.git](https://github.com/cscheiding/data-science.git)
+git clone https://github.com/cscheiding/data-science.git
 cd data-science
 ```
