@@ -1,5 +1,9 @@
 # Files to ignore:
 .DS_Store
 __*
+gemini_api_key.txt
+gmail_api_credentials.json
+gmail_api_token.json
 
 # Folders to ignore:
+.vscode/
