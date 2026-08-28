@@ -70,5 +70,5 @@ Clone the repository and open the notebook:
 
 ```bash
 git clone https://github.com/cscheiding/data-science.git
-cd "4 Stellar Age Prediction"
+cd machine-learning/01-stellar-age-prediction
 jupyter notebook Stellar_Age_Prediction.ipynb

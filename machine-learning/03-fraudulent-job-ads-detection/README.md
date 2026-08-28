@@ -51,7 +51,7 @@ The autoencoder improves accuracy, precision, recall and F1 score, showing that 
 ---
 
 ## 📂 Project Structure
-- **Dimensionality_reduction.ipynb**  
+- **Fraudulent_Job_Ads_Detection.ipynb**  
   Main Jupyter Notebook containing the full workflow: pre-processing, over-sampling, logistic regression baseline, autoencoder training and evaluation.  
 
 - **Data/DataSet.csv**  
@@ -70,5 +70,5 @@ Clone the repository and open the notebook:
 
 ```bash
 git clone https://github.com/cscheiding/data-science.git
-cd "3 Fraudulent Job Ads Detection"
-jupyter notebook Dimensionality_reduction.ipynb
+cd machine-learning/03-fraudulent-job-ads-detection
+jupyter notebook Fraudulent_Job_Ads_Detection.ipynb

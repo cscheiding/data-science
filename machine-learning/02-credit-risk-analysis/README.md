@@ -76,5 +76,5 @@ Clone the repository and open the notebook:
 
 ```bash
 git clone https://github.com/cscheiding/data-science.git
-cd "2 Credit Risk Analysis"
+cd machine-learning/02-credit-risk-analysis
 jupyter notebook Credit_Risk_Analysis.ipynb
