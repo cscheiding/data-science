@@ -1,6 +1,6 @@
 # Data Science & AI Portfolio - `cscheiding`
 
-Welcome to my Data Science and Artificial Intelligence portfolio. This repository contains a curated collection of projects showcasing my skills in **Machine Learning**, **Generative AI Applications** and **Software Architecture** using Python.
+Welcome to my Data Science and Artificial Intelligence portfolio. This repository contains a collection of projects showcasing my skills in **Machine Learning**, **Generative AI Applications** and **Software Architecture** using Python.
 
 ---
 
