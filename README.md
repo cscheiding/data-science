@@ -8,7 +8,7 @@ Welcome to my Data Science and Artificial Intelligence portfolio. This repositor
 
 ### 🤖 AI Applications (`./ai-applications`)
 
-1. **Email AI Agent (Local)** (English 🇺🇸)  
+- **Email AI Agent (Local)** (English 🇺🇸)  
   Streamlit-powered desktop web application that integrates the Gmail API and Google Gemini API to automate email diagnosis, urgency classification, executive summarization and response generation using an Object-Oriented Architecture.  
   [View Project](./ai-applications/01-email-ai-agent-local)
 
@@ -18,16 +18,16 @@ Welcome to my Data Science and Artificial Intelligence portfolio. This repositor
 
 Ordered from most recent to oldest:
 
-3. **Fraudulent Job Ads Detection** (English 🇺🇸)  
+- **Fraudulent Job Ads Detection** (English 🇺🇸)  
   Applied dimensionality reduction using neural networks (autoencoders) to improve predictive analysis of fraudulent job postings.  
   Includes pre-processing (feature selection, encoding, scaling), class balancing with SMOTE-NC, logistic regression baseline and comparison of performance after constructing a latent representation.  
   [View Project](./machine-learning/03-fraudulent-job-ads-detection)
 
-2. **Credit Risk Analysis** (English 🇺🇸)  
+- **Credit Risk Analysis** (English 🇺🇸)  
   Applied statistical and machine learning techniques to assess credit risk based on financial data.  
   [View Project](./machine-learning/02-credit-risk-analysis)
 
-1. **Stellar Age Prediction (Predicción de edades estelares)** (Spanish 🇪🇸)  
+- **Stellar Age Prediction (Predicción de edades estelares)** (Spanish 🇪🇸)  
   Developed predictive models to estimate stellar ages using astrophysical datasets. Combines astronomy knowledge with machine learning methods, as part of the *Experimental Astrophysics (UC)* course.  
   [View Project](./machine-learning/01-stellar-age-prediction)
 
