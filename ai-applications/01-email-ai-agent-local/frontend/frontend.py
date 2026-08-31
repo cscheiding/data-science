@@ -130,7 +130,7 @@ class UI:
         with st.container(border = True):
             st.subheader("📋 Encuesta de Diagnóstico")
             st.write(
-                "¿Últimamente, cuánto tiempo semanal estimas que dedicas en" \
+                "¿Últimamente, cuánto tiempo semanal estimas que dedicas en " \
                 "promedio a responder correos?"
             )
         # Draw two columns for hours and minutes input:
