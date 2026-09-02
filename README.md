@@ -46,7 +46,7 @@ Ordered from most recent to oldest:
 ## 🔑 Concepts Applied
 
 - **Generative AI & Agents**: LLM integration, prompt engineering, structured JSON output mode, context-aware response generation and session caching  
-- **Software Architecture**: Object-Oriented Design (OOP), separation of concerns (UI, AppState and Backend) and OAuth2 authentication flow  
+- **Software Architecture**: Object-Oriented Design (OOP), separation of concerns (Frontend and Backend) and OAuth2 authentication flow  
 - **Machine Learning**: Supervised learning (classification and regression), dimensionality reduction (autoencoders) and feature importance analysis  
 - **Data Engineering**: Data cleaning, scaling, One-Hot encoding, handling missing values and class balancing (SMOTE-NC)  
 - **Model Evaluation**: Hyperparameter tuning (GridSearchCV, RandomizedSearchCV), accuracy, precision, recall, F1-score and confusion matrix evaluation  

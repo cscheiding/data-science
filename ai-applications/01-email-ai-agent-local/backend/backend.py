@@ -13,6 +13,7 @@ class GmailConnection:
     """
     Manages the connection with the Gmail API: pull and push emails.
     """
+
     def __init__(
         self,
         gmail_api_credentials_filepath: str,
@@ -355,6 +356,7 @@ class GeminiConnection:
     Manages the connection with the Gemini API: send a prompt to analyze an
     email, then receive the requested information.
     """
+    
     def __init__(
             self,
             gemini_api_key_filepath: str,
